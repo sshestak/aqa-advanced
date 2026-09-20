@@ -2,11 +2,11 @@
 //Завдання 4.2
 
 //Довжина прямокутника
-let length = 17;
+const length = 17;
 
 //Ширина прямокутника
-let width = 7;
+const width = 7;
 
 //Площа прямокутника
-let rectangleArea = length * width;
+const rectangleArea = length * width;
 console.log(rectangleArea.toFixed(2));

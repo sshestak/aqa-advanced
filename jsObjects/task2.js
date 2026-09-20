@@ -1,10 +1,10 @@
 const book = {
-    title: "Аркан вовків",
-    author: "Павло Дерев'янко",
-    year: 2019
-}
+  title: 'Аркан вовків',
+  author: "Павло Дерев'янко",
+  year: 2019,
+};
 
-const { title, author } = book
+const { title, author } = book;
 
-console.log(title)
-console.log(author)
+console.log(title);
+console.log(author);

@@ -3,15 +3,15 @@
 const number = 9;
 
 for (let i = 1; i <= 10; i++) {
-    console.log(`${number} x ${i} = ${number * i}`);
+  console.log(`${number} x ${i} = ${number * i}`);
 }
 
-console.log(''); //пустий рядок для розділення виведених результатів 
+console.log(''); //пустий рядок для розділення виведених результатів
 
-//через while 
+//через while
 let i = 1;
 
 while (i <= 10) {
-    console.log(`${number} x ${i} = ${number * i}`);
-    i++;
+  console.log(`${number} x ${i} = ${number * i}`);
+  i++;
 }
