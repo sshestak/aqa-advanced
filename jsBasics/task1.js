@@ -1,20 +1,20 @@
 //Завдання 1: Оголошення змінних для примітивних типів
 // String
-let greetings = "Hello, dear Mykhailo!";
+const greetings = 'Hello, dear Mykhailo!';
 console.log(greetings);
 
 //Number
-let lesson = 4;
+const lesson = 4;
 console.log(lesson);
 
 //Boolean
-let isStudent = true;
+const isStudent = true;
 console.log(isStudent);
 
 //Null
-let errors = null;
+const errors = null;
 console.log(errors);
 
 //Undefined
-let knowledgePercentage;
+const knowledgePercentage = undefined;
 console.log(knowledgePercentage);
