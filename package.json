@@ -23,11 +23,6 @@
     "url": "https://github.com/sshestak/aqa-advanced/issues"
   },
   "homepage": "https://github.com/sshestak/aqa-advanced#readme",
-  "dependencies": {
-    "axios": "^1.20.0",
-    "chalk": "^5.6.2",
-    "dotenv": "^18.0.3"
-  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@faker-js/faker": "^10.6.0",
@@ -47,5 +42,10 @@
     "*.{json,html,css,scss,md,yml,yaml}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "chalk": "^5.6.2",
+    "dotenv": "^18.0.3"
   }
 }
